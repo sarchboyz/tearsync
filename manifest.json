@@ -1,0 +1,206 @@
+{
+  "repo": "sarchboyz/tearsync",
+  "tag": "mods",
+  "mods": {
+    "assetpack.zip": {
+      "folder_name": "assetpack",
+      "folder_hash": "ae71c55f6cdf8d5c7d39581dd83fb7ad",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/assetpack.zip"
+    },
+    "bananabomb.zip": {
+      "folder_name": "bananabomb",
+      "folder_hash": "a9800264b09b6ad5d2f8781596dcadda",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/bananabomb.zip"
+    },
+    "basic.zip": {
+      "folder_name": "basic",
+      "folder_hash": "fee597aa3f2991ef88958fcf6a41a6fa",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/basic.zip"
+    },
+    "castle.zip": {
+      "folder_name": "castle",
+      "folder_hash": "47828d37173a9bd6a96aa77cc0979d80",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/castle.zip"
+    },
+    "contentgamemodeexample.zip": {
+      "folder_name": "contentgamemodeexample",
+      "folder_hash": "e5e8d147a838b2b4c2200e464794649e",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/contentgamemodeexample.zip"
+    },
+    "cratertown.zip": {
+      "folder_name": "cratertown",
+      "folder_hash": "162cccff9b6a306f780e625b94896027",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/cratertown.zip"
+    },
+    "cullington.zip": {
+      "folder_name": "cullington",
+      "folder_hash": "db3fc51a0cd51a99e9c14dfc2bbcf1ae",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/cullington.zip"
+    },
+    "debuginfo.zip": {
+      "folder_name": "debuginfo",
+      "folder_hash": "10386144f908156837920ee4e8257507",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/debuginfo.zip"
+    },
+    "drivetosurvive.zip": {
+      "folder_name": "drivetosurvive",
+      "folder_hash": "93e0f82857af4c4e5d78270a50b0bd69",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/drivetosurvive.zip"
+    },
+    "editorshowcase.zip": {
+      "folder_name": "editorshowcase",
+      "folder_hash": "7f7dff9aa2aa816eeb267ef97b140d29",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/editorshowcase.zip"
+    },
+    "evertidesmall.zip": {
+      "folder_name": "evertidesmall",
+      "folder_hash": "8a3ebada77cd8ea9aad95272534bc109",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/evertidesmall.zip"
+    },
+    "frustrum.zip": {
+      "folder_name": "frustrum",
+      "folder_hash": "6a39d37e1e68b32449de2c49b50807cc",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/frustrum.zip"
+    },
+    "heistexample.zip": {
+      "folder_name": "heistexample",
+      "folder_hash": "ed7f6cf583c05ca66364e89c5fea973a",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/heistexample.zip"
+    },
+    "hollowrockisland.zip": {
+      "folder_name": "hollowrockisland",
+      "folder_hash": "297248adabcccebf01ee9120c1d5fe81",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/hollowrockisland.zip"
+    },
+    "islaestocastica.zip": {
+      "folder_name": "islaestocastica",
+      "folder_hash": "5c46b74ec1535aa89d67a98ed4ffaa78",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/islaestocastica.zip"
+    },
+    "jetpack.zip": {
+      "folder_name": "jetpack",
+      "folder_hash": "d86a11afd2ab705b8a1ac19d47ab4451",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/jetpack.zip"
+    },
+    "lasergun.zip": {
+      "folder_name": "lasergun",
+      "folder_hash": "e75011ef40a2c3aa61f9d33474636bb6",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/lasergun.zip"
+    },
+    "leechemicals.zip": {
+      "folder_name": "leechemicals",
+      "folder_hash": "392cff28dc38968f2c1565663cde726d",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/leechemicals.zip"
+    },
+    "merlin.zip": {
+      "folder_name": "merlin",
+      "folder_hash": "85032130d2d355a80628d0e58dce7c65",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/merlin.zip"
+    },
+    "minigun.zip": {
+      "folder_name": "minigun",
+      "folder_hash": "79d11e060a09b4bac781d4bc4ece6677",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/minigun.zip"
+    },
+    "motorpark.zip": {
+      "folder_name": "motorpark",
+      "folder_hash": "a7720fa27efc4bf843097caf3e0ca1d7",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/motorpark.zip"
+    },
+    "mpclassics.zip": {
+      "folder_name": "mpclassics",
+      "folder_hash": "53f38740498b453c6beb22672f869bab",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/mpclassics.zip"
+    },
+    "muratoribeach.zip": {
+      "folder_name": "muratoribeach",
+      "folder_hash": "04571ab31abe996c2f95b10a8f5d23a5",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/muratoribeach.zip"
+    },
+    "proppack.zip": {
+      "folder_name": "proppack",
+      "folder_hash": "97129098f272383c26123be744803dc5",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/proppack.zip"
+    },
+    "quilezsecurity.zip": {
+      "folder_name": "quilezsecurity",
+      "folder_hash": "4316a5cb05ea8ddb617074d3c780b111",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/quilezsecurity.zip"
+    },
+    "robotshowcase.zip": {
+      "folder_name": "robotshowcase",
+      "folder_hash": "8a1c48746518fb86a6f47fc9cee8efba",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/robotshowcase.zip"
+    },
+    "screenrecorder.zip": {
+      "folder_name": "screenrecorder",
+      "folder_hash": "bcb1c03653a2a77109a9043f44200e60",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/screenrecorder.zip"
+    },
+    "scriptingshowcase.zip": {
+      "folder_name": "scriptingshowcase",
+      "folder_hash": "9ffc2d300ef797d78e4ca32ba0c0cb83",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/scriptingshowcase.zip"
+    },
+    "simplehouse.zip": {
+      "folder_name": "simplehouse",
+      "folder_hash": "00a814d11c27406cb81da94d0a4c41f6",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/simplehouse.zip"
+    },
+    "slowmotion.zip": {
+      "folder_name": "slowmotion",
+      "folder_hash": "3e7c0081e7dbc928a7d57d4e825fdd5c",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/slowmotion.zip"
+    },
+    "smokegun.zip": {
+      "folder_name": "smokegun",
+      "folder_hash": "289fdf4a8938a69305ff803c989f5d17",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/smokegun.zip"
+    },
+    "speedometer.zip": {
+      "folder_name": "speedometer",
+      "folder_hash": "7c7a8eeefff4d9ccc253f32aad8c5643",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/speedometer.zip"
+    },
+    "splitfieldestate.zip": {
+      "folder_name": "splitfieldestate",
+      "folder_hash": "08dc6b225bc37d1c7cc158746541dc0c",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/splitfieldestate.zip"
+    },
+    "tillaggaryd.zip": {
+      "folder_name": "tillaggaryd",
+      "folder_hash": "d1243e34db2d4301a6af70d433e1c82c",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/tillaggaryd.zip"
+    },
+    "uishowcase.zip": {
+      "folder_name": "uishowcase",
+      "folder_hash": "509eeff2cee247f209dc7a54b69a5c9a",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/uishowcase.zip"
+    },
+    "vehiclebooster.zip": {
+      "folder_name": "vehiclebooster",
+      "folder_hash": "50d17a948a3420e10eb195f2fcd307ed",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/vehiclebooster.zip"
+    },
+    "vehicleikshowcase.zip": {
+      "folder_name": "vehicleikshowcase",
+      "folder_hash": "13b14c2294e6d484c96fbce7488c54c9",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/vehicleikshowcase.zip"
+    },
+    "vehiclepack.zip": {
+      "folder_name": "vehiclepack",
+      "folder_hash": "07dc930187ddbe53ce2a1ae39bb9e968",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/vehiclepack.zip"
+    },
+    "villagordon.zip": {
+      "folder_name": "villagordon",
+      "folder_hash": "e618a542955a859f340f1634b9a1892d",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/villagordon.zip"
+    },
+    "westpointmarina.zip": {
+      "folder_name": "westpointmarina",
+      "folder_hash": "ea864f3ad11ba0ad01552a391975aa96",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/westpointmarina.zip"
+    }
+  }
+}
