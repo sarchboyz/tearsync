@@ -277,6 +277,11 @@
       "folder_hash": "f584004bf60a470d627765beab736404",
       "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/rt5.zip"
     },
+    "Russian_Park.zip": {
+      "folder_name": "Russian Park",
+      "folder_hash": "eb63cd2b18efa5f34857a84011b792d7",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/Russian_Park.zip"
+    },
     "Russian_Town_6_Summer.zip": {
       "folder_name": "Russian Town 6 Summer",
       "folder_hash": "c018e5d11f0430f585da42b53917fe02",
@@ -357,10 +362,20 @@
       "folder_hash": "e618a542955a859f340f1634b9a1892d",
       "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/villagordon.zip"
     },
+    "Volkograd_town_3_WB.zip": {
+      "folder_name": "Volkograd town 3 WB",
+      "folder_hash": "e30967c1cb75f2c086a0243923107a86",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/Volkograd_town_3_WB.zip"
+    },
     "westpointmarina.zip": {
       "folder_name": "westpointmarina",
       "folder_hash": "ea864f3ad11ba0ad01552a391975aa96",
       "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/westpointmarina.zip"
+    },
+    "Wildberries_Warehouse.zip": {
+      "folder_name": "Wildberries Warehouse",
+      "folder_hash": "5926fee54e88bc86f9fd29ab84f47096",
+      "download_url": "https://github.com/sarchboyz/tearsync/releases/download/mods/Wildberries_Warehouse.zip"
     }
   }
 }
